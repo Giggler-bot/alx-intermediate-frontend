@@ -1,0 +1,10 @@
+# Steps to install SASS
+
+1. Installed Node Version Manager (NVM) to manage node versions:
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   exit terminal and reopen it
+   nvm install 20.16
+   nvm use 20.16
+
+2. Installed SASS version 1.37.4 locally using npm:
+   npm install sass@1.37.4
